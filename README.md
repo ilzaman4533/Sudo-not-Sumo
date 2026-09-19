@@ -1,5 +1,5 @@
 # Sudo-not-Sumo
-Documenting my path to becoming the best Cyber Detective I can be.
+Documenting my path through DFIR/Forensics/AI Security.
 Folders:
 - CTFs: CTF(Capture The Flag) Writeups. Further separated into Red-Team, Blue-Team, and AI Safety CTFs. Updated Weekly.
 - OvertheWire&THM: My OvertheWire Wargames notes and solutions (Bandit, Leviathan, Natas), along with notes and takeaways from various TryHackMe Rooms.
