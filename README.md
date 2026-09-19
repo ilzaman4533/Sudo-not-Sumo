@@ -1,12 +1,11 @@
 # Sudo-not-Sumo
-Documenting my path to become the best Cyber Detective I can be.
+Documenting my path to becoming the best Cyber Detective I can be.
 Folders:
-- CTFs: CTF(Capture The Flag) Writeups. Further separated onto Red-Team and Blue-Team CTFs. Updated Weekly.
-- OvertheWire&THM: My OvertheWire Wargames notes and solution (Bandit, Leviathan, Natas), along with notes and takeaways from various TryHackMe Rooms.
+- CTFs: CTF(Capture The Flag) Writeups. Further separated into Red-Team, Blue-Team, and AI Safety CTFs. Updated Weekly.
+- OvertheWire&THM: My OvertheWire Wargames notes and solutions (Bandit, Leviathan, Natas), along with notes and takeaways from various TryHackMe Rooms.
 - Big Picture Internet: A not-so-often braindump on everything I know about the internet and networking -- Documenting growth and progress in understanding.
 
 My name is Yunjae Park, and I am a class of 2030 at the University of Texas at Austin, Majoring in Computer Science. 
-This all started with just a few weeks left before my freshman year, when I suddenly grew very curious in the field of cyber security, specifically in DFIR and Forensics.
-As of writing this, about a month in, very close to move-in -- The spark has already turned into a passion.
-The passion to become the best Cyber Detective who can also adapt to AI security problems.
+This all started with just a few weeks left before my freshman year, when I suddenly grew very curious about the field of cybersecurity, specifically in DFIR and Forensics.
+As I write this, about a month into my first semester at UTCS, that spark has grown into a fierce passion, specifically now in the growing field of AI safety/forensics.
 I will continue to record my progress here.
