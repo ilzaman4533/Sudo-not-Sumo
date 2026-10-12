@@ -3,7 +3,7 @@ Documenting my path through DFIR/Forensics/AI Security.
 Folders:
 - CTFs: CTF(Capture The Flag) Writeups. Further separated into Red-Team, Blue-Team, and AI Safety CTFs. Updated Weekly.
 - OvertheWire&THM: My OvertheWire Wargames notes and solutions (Bandit, Leviathan, Natas), along with notes and takeaways from various TryHackMe Rooms.
-- Big Picture Internet: A not-so-often braindump on everything I know about the internet and networking -- Documenting growth and progress in understanding.
+- Big Potato Stuff: Braindump / Thought Exercise on different topics of my interest, involving cybersecurity or AI.
 
 My name is Yunjae Park, and I am a class of 2030 at the University of Texas at Austin, Majoring in Computer Science. 
 This all started with just a few weeks left before my freshman year, when I suddenly grew very curious about the field of cybersecurity, specifically in DFIR and Forensics.
